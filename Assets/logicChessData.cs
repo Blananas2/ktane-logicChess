@@ -552,7 +552,7 @@
 		"+w.|I see, thank you.",
 		"+b_1220|(No uncovered spots? Hmmm...)|br|kq|Can you provide more information?|I see the problem already.",
 		"-w.|Certainly. We both know that Position #4 is a Rook. So Rook takes F6.",
-		"-w_1417|E3 is a black square. Meaning a Rook takes E3, and a Bishop takes D6, Positions #5 and #2 respectively.|br|bp|One of your pieces so far are incorrect.|Wait and see.",
+		"-w_1417|E3 is a black square. Meaning a Rook takes E3, and a Bishop takes D6, Positions #5 and #1 respectively.|br|bp|One of your pieces so far are incorrect.|Wait and see.",
 		"-w,|Uhh... You sure there Mr. Edgework? Those three spots are usually the ones everybody never gets wrong.",
 		"+bX16|(Everyone except me I guess...)",
 		"-w.|Anyways, where was I? Oh yes.",
