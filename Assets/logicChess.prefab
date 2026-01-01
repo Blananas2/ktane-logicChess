@@ -2445,13 +2445,13 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 79183d6c623415d46be497e4b74acf00, type: 3}
   - {fileID: 21300000, guid: 1af96f3fee98d8e48b283dc5b5f9dc15, type: 3}
   - {fileID: 21300000, guid: 536a8b3df5b84d049a240c5d6ceebc73, type: 3}
-  - {fileID: 21300000, guid: a8da918b0a1a2fb44a562bb2262979ad, type: 3}
+  - {fileID: 21300000, guid: 3431244db42884843a670a3dfe187f53, type: 3}
   - {fileID: 21300000, guid: 5159c30d5b0b88a4b80a194ac6813a1b, type: 3}
   - {fileID: 21300000, guid: 8cc2d1768d5036a4a870bea8f88c645a, type: 3}
   - {fileID: 21300000, guid: 430dc91961fb61b4a9204d2eb7f9b80b, type: 3}
   - {fileID: 21300000, guid: c1a620f8fdbd5ec4d9a209467e79533a, type: 3}
   - {fileID: 21300000, guid: b905e9b7a60c55f4ab8ae3387f1a053b, type: 3}
-  - {fileID: 21300000, guid: 67a41a54ad3980b4dbe301919150d03e, type: 3}
+  - {fileID: 21300000, guid: 059be087c463d3d4a8b1419a59a7187f, type: 3}
   - {fileID: 21300000, guid: b05c3e1be0511fe4da111b395e6df8e8, type: 3}
   PieceSprites:
   - {fileID: 21300000, guid: 5e53daf8574f2ad43b21fc606b1dfb85, type: 3}
